@@ -16,5 +16,5 @@ The dataset comprises the records of 12 client accounts (Compte) in the year 202
 - Id Compte: Unique identifier for client accounts.
   
 - Amount Transaction: The amount involved in each transaction.
-- 
+  
 - Category Transaction: Categorization of each transaction (e.g., Food & Drink, Bank Transfers)
